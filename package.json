@@ -1,0 +1,27 @@
+{
+  "name": "@wolfinstep/skotha-cli",
+  "version": "0.1.0",
+  "description": "Command line tool for the common things I do",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SkothaSec/skothaCLI.git"
+  },
+  "keywords": [
+    "cli",
+    "node",
+    "utilities",
+    "npm",
+    "git",
+    "setup"
+  ],
+  "author": "Christian Gorke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SkothaSec/skothaCLI/issues"
+  },
+  "homepage": "https://github.com/SkothaSec/skothaCLI#readme"
+}
